@@ -1,0 +1,23 @@
+body{
+    display:flex;
+    justify-content: center;
+   
+}
+table,
+th,
+td{
+    border:2px,solid black;
+    border-style:none;
+}
+th{
+    background-color: aliceblue;
+}
+.wrapper{
+    background-color:rgb(178,227,126);
+}
+.wrapper1{
+background-color:rgb(173,214,173);
+}
+th{
+    background-color:yellowgreen;
+}

@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+a{
+    color:blue
+}
+
+button{
+    border: width 6px;;
+    background-color:green;
+    color:aliceblue
+}
+input[text]{
+    border-radius: 40px;
+}
